@@ -8,8 +8,8 @@
 
 <br>
 
-[![Download Report](https://img.shields.io/badge/REPORT-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](/mnt/data/report.pdf)  
-[![View Presentation](https://img.shields.io/badge/PRESENTATION-SLIDES-green?style=for-the-badge&logo=googleslides&logoColor=white)](/mnt/data/presentation.pdf)
+[![Download Report](https://img.shields.io/badge/REPORT-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](/docs/report.pdf)  
+[![View Presentation](https://img.shields.io/badge/PRESENTATION-SLIDES-green?style=for-the-badge&logo=googleslides&logoColor=white)](/docs/presentation.pdf)
 
 </div>
 
@@ -100,7 +100,7 @@ Blend entertainment, sensory immersion, and stress-reducing escape.
 
 <div align="center">
 
-<img src="docs/imgs/start.png" width="360">
+<img src="docs/imgs/start.png" width="450">
 
 </div>
 
