@@ -101,19 +101,15 @@ Blend entertainment, sensory immersion, and stress-reducing escape.
 
 <div align="center">
 
-<img align="left" src="docs/imgs/start.png" width="360">
+<img src="docs/imgs/start.png" width="360">
 
 </div>
-
-<div>
 
 **Core Components**
 - **Gameplay Manager** – handles state transitions  
 - **XR Interaction Toolkit** – gesture recognition & physics  
 - **Procedural Environment** – trees, lighting, terrain  
 - **Physics Engine** – linear projectile equations:
-
-</div>
 
 ```math
 x(t) = v₀ · t · cos(θ)
