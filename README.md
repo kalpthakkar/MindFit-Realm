@@ -76,7 +76,7 @@ Blend entertainment, sensory immersion, and stress-reducing escape.
 
 ### 🏹 **Archery Zone — Focus Through Flow**
 
-<img src="docs/imgs/archery.png" width="760" style="border-radius:12px;" />
+<img align="center" src="docs/imgs/archery.png" width="760" />
 
 - Precision-based bow mechanics  
 - Physics-driven projectile motion  
@@ -101,15 +101,19 @@ Blend entertainment, sensory immersion, and stress-reducing escape.
 
 <div align="center">
 
-<img src="docs/imgs/start.png" width="360">
+<img align="left" src="docs/imgs/start.png" width="360">
 
 </div>
+
+<div>
 
 **Core Components**
 - **Gameplay Manager** – handles state transitions  
 - **XR Interaction Toolkit** – gesture recognition & physics  
 - **Procedural Environment** – trees, lighting, terrain  
 - **Physics Engine** – linear projectile equations:
+
+</div>
 
 ```math
 x(t) = v₀ · t · cos(θ)
