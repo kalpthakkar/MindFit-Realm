@@ -112,7 +112,7 @@ Blend entertainment, sensory immersion, and stress-reducing escape.
 - **Physics Engine** – linear projectile equations:
 
 ```math
-x(t) = v₀ · t · cos(θ)
+x(t) = v₀ · t · cos(θ)\\
 y(t) = v₀ · t · sin(θ) − ½gt²
 ```
 
