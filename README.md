@@ -24,8 +24,7 @@
 - 🌤 **Escape stress** via mindful escapism and cognitive flow  
 - 🎮 **Engage deeply** using physics-driven gameplay and spatial audio  
 
-> A harmonious blend of **game design**, **mental wellness**, and **VR cognitive stimulation**, backed by research insights from the project’s report and presentation.  
-:contentReference[oaicite:2]{index=2}
+> A harmonious blend of **game design**, **mental wellness**, and **VR cognitive stimulation**, backed by research insights from the project’s report and presentation.
 
 ---
 
